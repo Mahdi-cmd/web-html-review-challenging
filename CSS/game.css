@@ -1,0 +1,36 @@
+body{
+     
+    background-color: #FFDFD3;
+    color: #B22222;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.Doom{
+    text-decoration: underline;
+
+    text-align: center;
+}
+
+.Games{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Animal{
+    text-align: center;
+    text-decoration: underline;
+
+}
+.Street{
+    text-align: center;
+    text-decoration: underline;
+}
+.img1{
+     
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+    
+}

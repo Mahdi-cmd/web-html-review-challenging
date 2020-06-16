@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+body{
+
+    background-color: black;
+    color: red;
+    font-family: sans-serif;
+    margin: 40px;
+
+}
+.Title{
+    font-style: italic;
+    text-decoration: underline;
+    
+
+}
+
+.black{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.avng{
+    text-decoration: underline;
+    text-align: center;
+}
